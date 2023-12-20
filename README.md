@@ -1,9 +1,7 @@
 # Digital-ECG-signal-with-STM32F401
 Apply DSP for the signal ECG and analyze it by using FFT 
 
-Hi dude, this is some messed stuffs I did with ECG.
-### What is ECG?
-ECG is ECG, thats all. Check it out on Wikipedia!
+Hi dude, this is some messed stuffs I did with ECG((
 
 **Part of the ECG Signal**
 
