@@ -1,14 +1,9 @@
 # Digital-ECG-signal-with-STM32F401
 Apply DSP for the signal ECG and analyze it by using FFT 
-## Digital Filtering of an ECG Signal
-
-Hello everyone,
-Today, I will show how can you filter out the noise from the raw ECG signal. Let's start!
-
+Hi dude,
+This is some messed stuffs I did with ECG.
 ### What is ECG?
-
-Electrocardiography (ECG) is the measurement of the bioelectrical activity during the contraction and relaxation stages of the atria and ventricles of the heart, the stimulation of the heart and the conduction of the stimulus. ECG signal has some specific waves which correspond to particular conditions.
-
+ECG is ECG, thats all. Check it out on Wikipedia!
 **Part of the ECG Signal**
 ![](https://mozanunal.com/images/ekg15.jpg)
 
