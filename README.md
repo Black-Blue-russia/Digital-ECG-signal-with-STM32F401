@@ -47,13 +47,6 @@ Notice that by using DPS, the cutoff frequency will change a little bit, ups on 
 After the filtering, the frequency domain components are examined again. The noise component at 50 Hz is removed from the signal. Check in those figures above. 
 
 
-**Time Domain Result**
-
-The time-domain result of the filter can be examined in the next figure. As you can see from this figure, the time domain components of the ECG is cleaner.
-
-![ecg1](https://github.com/Black-Blue-russia/Digital-ECG-signal-with-STM32F401/assets/65806300/c006e620-0d1f-4dbd-a066-a37b0176434c)
-
-
 The next filter is designed to remove high-frequency noise from the signal. For this purpose, a 0-100 Hz low pass filter is designed.
 
 **0 - 100 Hz Low Pass Filter**
@@ -67,6 +60,12 @@ Finally, A simple moving average filter is applied to the signal. The next figur
 **20 Point Simple Moving Average Filtered Signal**
 
 ![ecg2](https://github.com/Black-Blue-russia/Digital-ECG-signal-with-STM32F401/assets/65806300/83b75d12-743c-4507-878a-2008ff889cf6)
+
+**Time Domain Result**
+
+The time-domain result of the filters. As you can see from this figure, the time domain components of the ECG is cleaner.
+
+![ecg1](https://github.com/Black-Blue-russia/Digital-ECG-signal-with-STM32F401/assets/65806300/c006e620-0d1f-4dbd-a066-a37b0176434c)
 
 
 
