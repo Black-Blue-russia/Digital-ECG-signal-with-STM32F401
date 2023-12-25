@@ -67,5 +67,9 @@ The time-domain result of the filters. As you can see from this figure, the time
 
 ![ecg1](https://github.com/Black-Blue-russia/Digital-ECG-signal-with-STM32F401/assets/65806300/c006e620-0d1f-4dbd-a066-a37b0176434c)
 
+**Idea for code**
+
+![Ideal for code drawio](https://github.com/Black-Blue-russia/Digital-ECG-signal-with-STM32F401/assets/65806300/fb7410d2-b3ab-43e9-8b73-9b20ec29295b)
+
 
 
